@@ -1,0 +1,15 @@
+
+#err_f
+{
+    display: none;
+}
+#succ_f
+{
+    display: none;
+}
+
+.responsive
+{
+    width:100%;
+    height: auto;
+}
